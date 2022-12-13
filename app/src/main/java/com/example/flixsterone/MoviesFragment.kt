@@ -21,7 +21,7 @@ import okhttp3.Headers
 import org.json.JSONArray
 import org.json.JSONObject
 
-private const val API_Key="0a7849c65a495f8b9a4aee2e7d73bb52"
+private const val API_Key=""
 class MoviesFragment : Fragment(), OnListFragmentInteractionListene {
     override fun onCreateView(
         inflater: LayoutInflater,
